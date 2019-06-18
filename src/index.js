@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const inquirer = require("inquirer");
 const randomTrivia = require("./jservice");
 const randomNum = Math.floor((Math.random() * 3) + 1);
