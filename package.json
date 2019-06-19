@@ -1,6 +1,6 @@
 {
   "name": "bridge-keeper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node inquirer prompt for the Bridge of Death scene in Monty Python and the Holy Grail.",
   "main": "src/index.js",
   "scripts": {
