@@ -1,6 +1,6 @@
 {
   "name": "bridge-keeper",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A node inquirer prompt for the Bridge of Death scene in Monty Python and the Holy Grail.",
   "main": "src/index.js",
   "scripts": {
@@ -17,14 +17,14 @@
   },
   "homepage": "https://github.com/dbelling/bridge-keeper-js#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.5.0"
   },
   "devDependencies": {
-    "eslint": "^5.16.0",
-    "eslint-config-standard": "^12.0.0",
-    "eslint-plugin-import": "^2.17.3",
+    "eslint": "6.1.0",
+    "eslint-config-standard": "13.0.1",
+    "eslint-plugin-import": "2.18.2",
     "eslint-plugin-node": "^9.1.0",
-    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.0"
   },
   "bin": {
