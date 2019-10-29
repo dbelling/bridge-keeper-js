@@ -1,5 +1,5 @@
 {
-  "name": "bridge-keeper",
+  "name": "@dbelling/bridge-keeper",
   "version": "1.2.0",
   "description": "A node inquirer prompt for the Bridge of Death scene in Monty Python and the Holy Grail.",
   "main": "src/index.js",
@@ -29,5 +29,8 @@
   },
   "bin": {
     "bridge-keeper": "./src/index.js"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/dbelling"
   }
 }
